@@ -5,9 +5,8 @@ In this class, we were tasked with developing our own controllers to enable a ca
 
 ## Unoptimized Simulation
 Simulation of an unoptimized run to compare against runs with custom controllers.
-<video width="380" height="250" controls>
-  <source src="unoptimized.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="505" src="https://www.youtube.com/embed/ldfIUtckChk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## P1 : PID Control
 > Requirements: 
@@ -18,6 +17,8 @@ Simulation of an unoptimized run to compare against runs with custom controllers
 <video width="380" height="250" controls>
   <source src="p1/PID.mp4" type="video/mp4">
 </video>
+
+
 
 ![Alt Text](p1/PID_1.png)
 ![Alt Text](p1/PID-400-10-5.png)
