@@ -6,7 +6,7 @@ In this class, we were tasked with developing our own controllers to enable a ca
 ## Unoptimized Simulation
 Simulation of an unoptimized run to compare against runs with custom controllers.
 
-[Watch the unoptimized simulation on YouTube](https://www.youtube.com/watch?v=ldfIUtckChk)
+[Watch the unoptimized simulation on YouTube](https://www.youtube.com/watch?v=LSsvH2R49dw)
 
 
 ## P1 : PID Control
@@ -15,7 +15,7 @@ Simulation of an unoptimized run to compare against runs with custom controllers
 >> Maximum Distance from Path:10 <br>
 >> Maximum Avg Distance from Path: 5
 
-[Watch the PID control simulation on YouTube](https://www.youtube.com/watch?v=fyKjudzqahQ)
+[Watch the PID control simulation on YouTube](https://www.youtube.com/watch?v=98Yn8yShmd8)
 
 
 
@@ -28,7 +28,7 @@ Simulation of an unoptimized run to compare against runs with custom controllers
 >> Maximum Distance from Path: 9 <br>
 >> Maximum Avg Distance from Path: 4.5
 
-[Watch the LQR control simulation on YouTube](https://www.youtube.com/watch?v=Sz1VSCtWgOo)
+[Watch the LQR control simulation on YouTube](https://www.youtube.com/watch?v=HNBtnbN30)
 
 ![Alt Text](p2/lqr.png)
 ![Alt Text](p2/LQR-350%209%201.45.png)
