@@ -28,7 +28,7 @@ Simulation of an unoptimized run to compare against runs with custom controllers
 >> Maximum Distance from Path: 9 <br>
 >> Maximum Avg Distance from Path: 4.5
 
-[Watch the LQR control simulation on YouTube](https://www.youtube.com/watch?v=HNBtnbN30)
+[Watch the LQR control simulation on YouTube](https://www.youtube.com/watch?v=o_HNBtnbN30)
 
 ![Alt Text](p2/lqr.png)
 ![Alt Text](p2/LQR-350%209%201.45.png)
