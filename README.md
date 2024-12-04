@@ -43,3 +43,10 @@ Simulation of an unoptimized run to compare against runs with custom controllers
 
 ![Alt Text](p3/lqr.png)
 ![Alt Text](p3/lqr_2.png)
+
+## P5 : MRAC (Model Reference Adaptive Controller)
+> Developed a MRAC, LQR control for a drone that recovers from 65% thrust loss in one of the motors
+
+[Watch the MRAC drone control simulation on YouTube](https://www.youtube.com/watch?v=KfT4UupcHBs)
+
+![Alt Text](p5/lqr.65.png)
